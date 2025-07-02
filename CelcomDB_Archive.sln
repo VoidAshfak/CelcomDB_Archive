@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CelcomDB_Archive", "CelcomDB_Archive.dtproj", "{2FB25113-4CE7-2558-8921-37F0EA298D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB25113-4CE7-2558-8921-37F0EA298D19}.Development|Default.ActiveCfg = Development
+		{2FB25113-4CE7-2558-8921-37F0EA298D19}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE4F959-6DD2-4686-B9C4-487ABD497325}
+	EndGlobalSection
+EndGlobal
